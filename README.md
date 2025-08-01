@@ -8,7 +8,7 @@
 - 📫 How to reach me **dawid5apl@gmail.com**
 
 - ⚡ Fun fact **ADHD makes me hungry for a very random knowledge**
-  Profile might be a little dead, but I don't have enough fixation to upload local scrap here 😅
+  <p>Profile might be a little dead, but I don't have enough fixation to upload local scrap here 😅</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
