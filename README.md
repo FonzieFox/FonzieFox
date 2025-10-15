@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **VBA | Batch | Powershell**
 
-- 📫 How to reach me **dawid5apl@gmail.com**
+- 📫 Reach me at **dawid5apl@vp.com**
 
 - ⚡ Fun fact **ADHD makes me hungry for a very random knowledge**
 
