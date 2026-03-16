@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact **ADHD makes me hungry for a very random knowledge**
 
-<p align="left">Profile might be a little dead, but I don't have enough fixation to upload local scrap here 😅</p>
+<p align="left">Profile might be a little dead, but I don't have enough time and fixation to upload local scrap here 😅</p>
   
 <div id="footer" align="center">
   <div id="Socials">
@@ -22,12 +22,12 @@
     </p>
   </div>
   <div id="technology">
-    <h3 align="left">Languages and Tools:</h3>
+    <h3 align="left">Languages and Tools used/tried:</h3>
     <p align="left"> 
       <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a> 
+      <a href="https://www.w3schools.com/c/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000" alt="c" width="40" height="40"/></a> 
       <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a> 
-      <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=9Gfx4Dfxl0JK&format=png&color=000000" alt="express" width="40" height="40"/></a> 
-      <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a> 
+      <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a> 
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a> 
       <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=39855&format=png&color=EBEBEB" alt="mysql" width="40" height="40"/></a> 
       <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000" alt="nodejs" width="40" height="40"/></a> 
